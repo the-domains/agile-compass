@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.5255319
+color:
+  lightness: 0.5680851
+  brandStrength: 0.5851064
+  saturation: 0.9273532
+  rhythmicContrast: 0.9115477
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 'agile compass  '
